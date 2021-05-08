@@ -1,0 +1,22 @@
+.navbar-mine{
+  color: antiquewhite;
+}
+/* pulled from day 3 activity 4 */
+  @media (max-width: 600px) {
+    .navbar li {
+      padding: 10px;
+    }
+  
+    .post {
+      margin-right: 30px;
+      margin-left: 30px;
+    }
+  
+    .navbar ul {
+      visibility: visible;
+    }
+  
+    #nav-select {
+      visibility: visible;
+    }
+  }
